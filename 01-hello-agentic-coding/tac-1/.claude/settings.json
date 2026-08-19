@@ -1,0 +1,15 @@
+{
+    "permissions": {
+      "allow": [
+        "Read",
+        "Write",
+        "Edit",
+        "Bash(uv run:*)",
+        "Bash(git checkout:*)",
+        "Bash(git branch:*)",
+        "Bash(git add:*)",
+        "Bash(git commit:*)",
+        "WebSearch"
+      ]
+    }
+  }
