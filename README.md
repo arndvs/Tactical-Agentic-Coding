@@ -1,8 +1,10 @@
-# Tactical Agentic Coding — Offline Course Library
+# Tactical Agentic Coding 
 
 Master the tactics of Agentic Coding to scale your engineering so far beyond that your codebase runs itself.
 
-> **Official Agentic Coding Course by @IndyDevDan** — mirrored offline for personal study.
+https://agenticengineer.com/tactical-agentic-coding/course
+
+> **Official Agentic Coding Course by @IndyDevDan** — for personal study.
 
 ## Module Map (14 total)
 
