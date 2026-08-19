@@ -2,3 +2,6 @@
 # Kept local only; not part of the public repo.
 working/
 .claude/
+
+# Lesson videos — large files kept local only
+**/video/*.mp4
